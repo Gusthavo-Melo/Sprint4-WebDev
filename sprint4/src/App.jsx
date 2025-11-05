@@ -89,7 +89,7 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p>&copy; 2025 - Pelada Feminina do Bem 💪</p>
+        <p>&copy; 2025 - Passa a Bola ⚽</p>
       </footer>
     </div>
   );
